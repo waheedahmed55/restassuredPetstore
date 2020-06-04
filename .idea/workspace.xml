@@ -2,38 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d592c2b-3bee-431a-b5ff-a721e764b5c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reports/20200604011602.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/20200604011804.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/20200604020441.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/20200604021235.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/20200604021638.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/20200604113659.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/20200604120051.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reports/20200604121434.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_aventstack_extentreports_4_0_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603105321.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603105410.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603105513.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603105805.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603105914.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603110232.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603110304.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603110646.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603110658.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603110818.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603111114.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603112158.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603112207.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reports/20200603112420.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/TestData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/TestListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/TestListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/framework/TestSetup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/framework/TestSetup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/PetStoreSmokeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/PetStoreSmokeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PetStore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PetStore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/framework/TestData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/framework/TestData.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/framework/TestListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/framework/TestListener.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/framework/TestSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/framework/TestSetup.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/tests/PetStoreSmokeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tests/PetStoreSmokeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdata/pets.json" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/pets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testdata/properties.json" beforeDir="false" afterPath="$PROJECT_DIR$/testdata/properties.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/SmokeTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tests/SmokeTest.xml" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -92,9 +74,30 @@
       <recent name="webobjects.App" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/aless/git/PetStore/tests/SmokeTest.xml">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Automation/RestAssured/restassuredPetstore/tests/SmokeTest.xml">
+    <configuration name="C:/Automation/RestAssured/restassuredPetstore/tests/SmokeTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="PetStore" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/tests/SmokeTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/aless/git/PetStore/tests/SmokeTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <useClassPathOnly />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/tests/SmokeTest.xml" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="" />
@@ -126,9 +129,11 @@
     <list>
       <item itemvalue="TestNG.C:/Users/aless/git/PetStore/tests/SmokeTest.xml" />
       <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.C:/Automation/RestAssured/restassuredPetstore/tests/SmokeTest.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Automation/RestAssured/restassuredPetstore/tests/SmokeTest.xml" />
         <item itemvalue="TestNG.C:/Users/aless/git/PetStore/tests/SmokeTest.xml" />
         <item itemvalue="TestNG.&lt;default&gt;" />
       </list>
@@ -166,6 +171,19 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
