@@ -1,0 +1,4 @@
+tests\PetStoreSmokeTest.class
+framework\TestData.class
+framework\TestSetup.class
+framework\TestListener.class

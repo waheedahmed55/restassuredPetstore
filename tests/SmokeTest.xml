@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pet Store Test Suite" parallel="classes">
+
+<!--	suite level parameters, all have default values, override parameters with the same name from properties.json
+		and can be overridden by environment variables -->
+<!--	<parameter name="App_URL" value="https://petstore.swagger.io/v2" />-->
+
+	<listeners>
+		<listener class-name="framework.TestListener"/>
+	</listeners>
+
+	<test thread-count="1" name="Pets smoke test">
+		<parameter name="pet_name" value="Nacho" />
+		<classes>
+			<class name="tests.PetStoreSmokeTest">
+				<methods>
+<!--					<exclude name=".*"/>-->
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+</suite>
